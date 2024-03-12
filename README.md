@@ -2,6 +2,8 @@
 
 This project aims to develop an end-to-end solution for classifying plant diseases to aid in early detection and treatment. The project includes data collection, data preprocessing, training a convolutional neural network (CNN) model using TensorFlow, building a web application for predictions, containerizing the app using Docker, and testing the Docker container.
 
+https://github.com/umairsiddique3171/plant_disease_classification_end-2-end/assets/148565997/c4135ded-5976-44c0-9a09-ff1b048cc71d
+
 ## Table of Contents
 - [Overview](#overview)
 - [CNN Model Training](#cnn-model-training)
